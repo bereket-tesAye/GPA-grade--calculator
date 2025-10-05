@@ -21,6 +21,7 @@ A simple GPA calculator written in Python that allows users to input their cours
 2. Navigate to the project directory:
    ```bash
    cd gpa-calculator
+   hello
    ```
 
 3. Run the script:
